@@ -1,0 +1,15 @@
+p{
+    background-color: pink;
+}
+a{
+    color: violet;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: aqua;
+}
